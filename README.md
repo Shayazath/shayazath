@@ -46,14 +46,17 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayaz&show_icons=true&locale=en&layout=compact" alt="shayaz" /></p>
 
 <p align="center">
-  <a href="https://shayazath.github.io/Know-SHAYAZ" target="blank" style="
-     display: inline-block;
-     padding: 10px 20px;
-     background-color: #ff8c00;
-     color: white;
-     border-radius: 8px;
-     text-decoration: none;
-     font-weight: bold;">
+  <a href="#"
+     style="
+       display: inline-block;
+       padding: 10px 20px;
+       color: white;
+       font-weight: bold;
+       text-decoration: none;
+       border-radius: 10px;
+       background: linear-gradient(45deg, #ff6b00, #ff0080);
+     ">
      View More
   </a>
 </p>
+

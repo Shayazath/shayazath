@@ -45,24 +45,15 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayaz&show_icons=true&locale=en&layout=compact" alt="shayaz" /></p>
 
-<p align="center">
-  <a href="#"
-     style="
-       display: inline-block;
-       padding: 10px 20px;
-       color: white;
-       font-weight: bold;
-       text-decoration: none;
-       border-radius: 10px;
-       background: linear-gradient(45deg, #ff6b00, #ff0080);
-     ">
-     View More
-  </a>
-</p>
 
 <p align="center">
-  <img width="40"
-        height ="30"
-       src="https://github.com/Shayazath/shayazath/blob/main/view%20more.png"
-       alt="shayaz" />
+  <a href="https://shayazath.github.io/Know-SHAYAZ" target="_blank">
+    <img 
+      width="120"
+      height="100"
+      style="border-radius: 50px;"
+      src="https://raw.githubusercontent.com/Shayazath/shayazath/main/view%20more.png"
+      alt="shayaz"
+    />
+  </a>
 </p>

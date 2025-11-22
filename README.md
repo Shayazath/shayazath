@@ -61,7 +61,8 @@
 </p>
 
 <p align="center">
-  <img width="480"
+  <img width="40"
+        height ="30"
        src="https://github.com/Shayazath/shayazath/blob/main/view%20more.png"
        alt="shayaz" />
 </p>

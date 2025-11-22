@@ -46,7 +46,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayaz&show_icons=true&locale=en&layout=compact" alt="shayaz" /></p>
 
 <p align="center">
-  <a href="https://shayazath.github.io/Know-SHAYAZ" style="
+  <a href="https://shayazath.github.io/Know-SHAYAZ" target="blank" style="
      display: inline-block;
      padding: 10px 20px;
      background-color: #ff8c00;
